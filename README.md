@@ -1,2 +1,2 @@
 # test_subtensor
- checking storage value from bittensor network
+ replica epoch function of subtensor to checking storage values from bittensor network
